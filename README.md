@@ -220,5 +220,5 @@ Langkah-langkah dalam menggunakan Elbow Method adalah sebagai berikut:
 - Grafik Elbow Method membantu dalam menentukan jumlah klaster yang memberikan keseimbangan antara penurunan SSE yang signifikan dan kompleksitas model. Namun, penting untuk diingat bahwa interpretasi "elbow" pada grafik subjektif dan tergantung pada data dan konteks spesifik.
 ## Deployment
 
-Link Streamlit : [Online Retail](https://m-rafif-musyaffa-costumer-spend-k-means-i29pwd.streamlit.app/)
+Link Streamlit : [Online Retail](https://onlineretail-55mzqtqp2weny2ececpnff.streamlit.app/)
 ![Streamlit](8.png)
