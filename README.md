@@ -221,4 +221,4 @@ Langkah-langkah dalam menggunakan Elbow Method adalah sebagai berikut:
 ## Deployment
 
 Link Streamlit : [Online Retail](https://onlineretail-55mzqtqp2weny2ececpnff.streamlit.app/)
-![Streamlit](8.png)
+![Streamlit](08.png)
